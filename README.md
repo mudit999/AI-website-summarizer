@@ -2,4 +2,4 @@
 
 ## Output
 
-![AI Summarizer Screenshot](Media/output.png)
+![AI Summarizer Screenshot](media/output.png)
