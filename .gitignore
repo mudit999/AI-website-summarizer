@@ -1,0 +1,43 @@
+Python virtual environment
+
+.venv/
+venv/
+
+Environment variables and API keys
+
+.env
+.env.*
+!.env.example
+
+Python cache files
+
+pycache/
+*.py[cod]
+*$py.class
+
+Distribution and build files
+
+build/
+dist/
+*.egg-info/
+
+Testing and coverage
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+IDE and editor settings
+
+.vscode/
+.idea/
+
+Gradio temporary files
+
+.gradio/
+
+macOS system files
+
+.DS_Store
+.AppleDouble
+.LSOverride
